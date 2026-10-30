@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-cerebral-tissue-oxygenation-nirs-hypoxia-sentinel-skill",
+  "version": "1.0.0",
+  "title": "Cerebral Tissue Oxygenation NIRS & Frontal Hypoxia Sentinel Skill",
+  "category": "Personal Agent (Bio / Neuro-Vascular Oxygenation)",
+  "description": "Processes near-infrared spectroscopy (NIRS) frontal lobe tissue saturation index (TSI/rSO2), oxygen extraction fraction (OEF), and detects cerebral hypoperfusion and cognitive fatigue.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "monitor_cerebral_oxygenation_nirs"
+  ],
+  "dependencies": []
+}
